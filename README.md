@@ -1,5 +1,5 @@
 
-Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/Code-Of-Conduct
+Código de conduta traduzido e baseado em: https://github.com/AndroidDevBR/Codigo-De-Conduta
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
@@ -7,7 +7,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 ## Código de Conduta
 
-O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O **Slack Dev-ES Com** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -57,11 +57,11 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android nacionais em torno de discussões e aprendizado coletivo, portanto qualquer tópico que destoe demais disso - como spam de aplicativos piratas, dúvidas sobre ROMs ou manutenção de aparelhos Android - são passíveis de banimento. 
+Este grupo é voltado para todos os profissionais que trabalhem direta ou indiretamente com TI. Não inclui jornalistas ou recrutadores/profissionais de RH. Mensagens de cunho publicitário são passíveis de banimento.
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://androiddevbr.herokuapp.com](http://androiddevbr.herokuapp.com)
+<img src="http://slack.devescom.com/badge.svg">
 
 ## Regras de etiqueta - Slack
 
@@ -73,6 +73,6 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 
 ### Dúvidas
 
-Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
+Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
