@@ -7,7 +7,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidDevBR/Codig
 
 ## Código de Conduta
 
-O **Slack Dev-ES Com** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O **Slack Dev-ES Community** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -49,9 +49,10 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **Walmyr Carvalho** - @walmyrcarvalho
-* **Lúcio Maciel** - @luciofm
-* **João Gouveia** - @joaogouveia
+* **Marcos D. Lima** - @devmadili
+* **Rafael dos Santos** - @rsantosdev
+* **Hercules Merscher** - @hercules
+* **Michael Alves** - @michaelalves
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
@@ -61,7 +62,7 @@ Este grupo é voltado para todos os profissionais que trabalhem direta ou indire
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-<img src="http://slack.devescom.com/badge.svg">
+[https://devescom.herokuapp.com/](https://devescom.herokuapp.com/)
 
 ## Regras de etiqueta - Slack
 
