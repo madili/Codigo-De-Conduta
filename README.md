@@ -1,13 +1,13 @@
 
 Código de conduta traduzido e baseado em: https://github.com/AndroidDevBR/Codigo-De-Conduta
 
-*Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
+*Esse texto é um documento em constante edição, e pode ser alterado no futuro. O que for escrito aqui vale para todos os canais de comunicação do DEV-ES*
 
 --
 
 ## Código de Conduta
 
-O **Slack Dev-ES Community** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O **Dev-ES** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -16,7 +16,7 @@ O **Slack Dev-ES Community** deve ser um lugar seguro e convidativo para pessoas
 - Idade
 - Religião
 
-Como membro deste Slack, você concorda que:
+Como membro deste grupo, você concorda que:
 
 * Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
 * Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
@@ -45,7 +45,7 @@ Se você disser alguma coisa que é considerada ofensiva e for chamado a atenç�
 * Pedir dicas ou ajuda para evitar ofensas futuras.
 * Saber se desculpar.
 
-O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
+O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do grupo. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
@@ -53,8 +53,9 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * **Rafael dos Santos** - @rsantosdev
 * **Hercules Merscher** - @hercules
 * **Michael Alves** - @michaelalves
+* **Jonathan Lamim Antunes** - @jlamim
 
-*A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
+*A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack/Facebook, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
 ## Como participar do grupo?
 
