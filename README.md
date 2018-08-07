@@ -49,11 +49,11 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **Marcos D. Lima** - @devmadili
-* **Rafael dos Santos** - @rsantosdev
 * **Hercules Merscher** - @hercules
-* **Michael Alves** - @michaelalves
 * **Jonathan Lamim Antunes** - @jlamim
+* **Marcos D. Lima** - @devmadili
+* **Michael Alves** - @michaelalves
+* **Rafael dos Santos** - @rsantosdev
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack/Facebook, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
